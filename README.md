@@ -809,7 +809,7 @@ ex
 
 
 <details>
-<summary Mock이 무엇인지 설명해 주세요. </summary>
+<summary> Mock이 무엇인지 설명해 주세요. </summary>
 
 Mock 이란
 
