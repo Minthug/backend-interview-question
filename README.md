@@ -203,7 +203,9 @@ Table Of Contents
 <details>
 <summary>HTTP와 HTTPS 의 차이는 무엇인가요?</summary>
 
-자바
+HTTP는 암호화 되지 않은 평문 통신이고, HTTPS는SSL/TLS를 통해 암호화된 보안 통신입니다.
+또한 HTTP는 80 포트이고 HTTPS는 443 입니다.
+물론 핵심은 HTTPS는HTTP에 보안계층을 추가한 프로토콜로 데이터의 안전한 전송을 보장합니다.
 </details>
 
 <details>
