@@ -1,5 +1,4 @@
-Q1. 가장 자신 있다고 생각하는 기술은 ?
-Docker -> 
+
 
 Q2. Redis를 사용한 이유는 ?
 AbsurdityApp에서 Redis를 적용한 이유에 대한 것은
