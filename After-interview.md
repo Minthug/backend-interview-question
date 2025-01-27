@@ -34,3 +34,18 @@ Q. 개발자의 목표는 ?
 
 
 https://www.notion.so/e62b967c42814a5a9b29954979c30fb0
+
+
+ANOTHER 
+sniff-step 리팩토링
+Record 클래스로 변환 시 주요 이점:
+
+불변성 보장: 데이터 일관성 유지
+코드 간소화: getter, setter, constructor 자동 생성
+equals(), hashCode(), toString() 자동 구현
+명확한 의도 전달: DTO의 데이터 전달 목적이 명확히 드러남
+메서드 호출 간소화: id() vs getId()
+단일책임원칙 준수: 데이터 전달만 담당
+
+단, 생성 후 수정이 필요한 경우는 일반 클래스가 더 적합할 수 있음
+
